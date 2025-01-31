@@ -47,7 +47,7 @@ const AudioRecorder = () => {
         {
           method: "POST",
           headers: {
-            Authorization: `Bearer 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`, // Ensure this is correct
+            Authorization: `Bearer `, // Ensure this is correct
           },
           body: formData,
         }
